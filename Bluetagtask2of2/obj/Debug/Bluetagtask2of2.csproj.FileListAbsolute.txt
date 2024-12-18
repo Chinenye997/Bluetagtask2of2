@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\bin\Debug\Bluetagtask2of2.exe.config
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\bin\Debug\Bluetagtask2of2.exe
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\bin\Debug\Bluetagtask2of2.pdb
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\obj\Debug\Bluetagtask2of2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\obj\Debug\Bluetagtask2of2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\obj\Debug\Bluetagtask2of2.exe
+C:\Users\USER\Desktop\Coding practice\Bluetagtask2of2\Bluetagtask2of2\obj\Debug\Bluetagtask2of2.pdb
