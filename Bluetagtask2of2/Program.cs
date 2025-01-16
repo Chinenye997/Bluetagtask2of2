@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Bluetagtask2of2
 {
-
-    /*PythagoreanTheorem Theorem = new PythagoreanTheorem();
-    Theorem.*/
     class PythagoreanTheorem
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Pythagorean Theorem");
+            Console.WriteLine("This is the Formula: a² + b² = c² ");
 
             Console.WriteLine("Enter side A:");
             double a = Convert.ToDouble(Console.ReadLine());
@@ -20,13 +19,10 @@ namespace Bluetagtask2of2
             Console.WriteLine("Enter side B:");
             double b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Enter side C:");
-            double c = Convert.ToDouble(Console.ReadLine());
+            // Calculate the hypotenuse using the Pythagorean theorem
+            double c = Math.Sqrt((a * a) + (b * b));
 
-
-            double d = Math.Sqrt((a * a) + (b * b) + (c * c));
-
-            Console.WriteLine("The hypotenuse is:" + d);
+            Console.WriteLine("The hypotenuse is: " + c);
 
             Console.ReadLine();
         }
